@@ -88,3 +88,27 @@ Natural Launguage Processing (NLP) Learning Path
 ⭐ Build your own GAN project [[Link]](<Week 6\Navneet_GAN_Project_SoAI_WK6.ipynb>)
 
 📽️ Videos *(for Inspiration)* - Generative Adversarial Networks (GANs) Playlist [[📽️]](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va)
+
+# Achievements and Badges
+
+## Weekly Badges
+
+- 🚀 [Final] The AI Rocket [[Link]](https://api.badgr.io/public/assertions/lMwpZHpbRuOVIACx37pqjw)
+- [Week 1] Newcomer in Season of AI [[Link]](https://api.badgr.io/public/assertions/RSeNMxF0Roudsl9E83g9MA) 
+- [Week 2] Beginner Contributor [[Link]](https://api.badgr.io/public/assertions/NbM_5Q0wQ-WEQ9mAdU6n9Q)
+- [Week 3] Intermediate Learner [[Link]](https://api.badgr.io/public/assertions/jC83e1KlR6isGzInO_lphA)
+- [Week 4] Intermediate Contributor [[Link]](https://api.badgr.io/public/assertions/7SsElDLJQv6k5CfE-d_bMw)
+- [Week 5] Professional Contributor [[Link]](https://api.badgr.io/public/assertions/Ct1UQ52NQGmtzIc7mUVsXQ)
+- [Week 6] Advanced Learner [[Link]](https://api.badgr.io/public/assertions/Ii7SEED1RsSgXx-wqu5gQQ)
+
+## Topic-wise Badges
+
+- Fundamental AI Concepts [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/9F9C9QQU?sharingId=A3A28162A8A6566E)
+- Introduction to machine learning [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/QTP4WX4E?sharingId=A3A28162A8A6566E)
+- Build classical machine learning models with supervised learning [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/4LB5MGBK?sharingId=A3A28162A8A6566E)
+- Train and evaluate deep learning models [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/87FJQ9AW?sharingId=A3A28162A8A6566E)
+- Fundamentals of Text Analysis with the Language Service [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/HAXMUV78?sharingId=A3A28162A8A6566E)
+- Fundamentals of question answering with the Language Service [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/YQ2BXB2R?sharingId=A3A28162A8A6566E)
+- Fundamentals of conversational language understanding [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/87Y4H6QW?sharingId=A3A28162A8A6566E)
+- Fundamentals of Azure AI Speech [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/QTBWACPE?sharingId=A3A28162A8A6566E)
+- Translate text and speech with Azure AI services [[Link]](https://learn.microsoft.com/api/achievements/share/en-us/navneet-dubey/ZKE3M9P2?sharingId=A3A28162A8A6566E)
