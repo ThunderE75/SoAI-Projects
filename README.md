@@ -32,8 +32,8 @@ All the AI/ML Projects & notes that i made during Seasons of AI - 2024
 ### 📽️ Videos 
 
 - ✅ Convolutional Neural Networks Theory [[Link]](https://www.youtube.com/watch?v=QzY57FaENXg)
-- ✅ Make a simple Machine Learning Model [[Link]](https://www.youtube.com/watch?v=29ZQ3TDGgRQ)
 - ✅ Build Your own CNN Image Classifier [[Link]](https://www.youtube.com/watch?v=jztwpsIzEGc)
+- ⏹️ Make a simple Machine Learning Model [[Link]](https://www.youtube.com/watch?v=29ZQ3TDGgRQ)
 
 ### 🛠️ Project 
 
