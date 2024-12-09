@@ -72,5 +72,17 @@ Natural Launguage Processing (NLP) Learning Path
 ---
 
 ## Week 5
+> [13th October 2024 - 17th October 2024]
 
-*Soon™️*
+### 📽️ Videos 
+
+- ✅ Generative Adversarial Networks by Ian Goodfellow - Neural Information Processing Systems Conference - NIPS 2016 [[Link]](<Week 5\GAN_Ian_Goodfellow_NIPS_2016.md>) [[📽️]](https://learn.microsoft.com/en-us/shows/neural-information-processing-systems-conference-nips-2016/generative-adversarial-networks?wt.mc_id=studentamb_291695) [[📦]](<Resorces\Archive\Videos\Generative Adversarial Networks with Ian Goodfellow - NIPS 2016.mp4>)
+- ✅ Variational Autoencoder [[Link]](<Week 5\Variational_Autoencoders_arXiv.md>) [[📽️]](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+- ✅ Stanford CS234: Reinforcement Learning | Winter 2019 [[Link]](<Week 5\Stanford_CS234.md>) [[📽️]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+---
+
+## Week 6
+> [18th October 2024 - 23rd October 2024]
+
+*Soon™*
